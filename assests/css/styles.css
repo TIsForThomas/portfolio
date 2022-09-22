@@ -1,0 +1,14 @@
+.subtitle-section {
+    background-image: url(../images/pexels-photo-4457409.jpeg);
+    width: 100%;
+    
+    background-position: center center;
+    background-size: auto auto;
+    background-repeat: no-repeat;
+}
+.grid-containter {
+    display: grid;
+
+
+
+}
