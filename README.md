@@ -8,7 +8,7 @@ This project required me to create my first iteration of my portfolio page with 
 
 ## What did I do?
 
-From the ground up I created element seen on the page excluding the images.
+From the ground up I created every element seen on the page excluding the images.
 
 ## Why not use and API?
 
