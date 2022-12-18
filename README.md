@@ -10,7 +10,7 @@ This project required me to create my first iteration of my portfolio page with 
 
 From the ground up I created every element seen on the page excluding the images.
 
-## Why not use and API?
+## Why not use an API?
 
 Fundementals are important, my idea for this project was to put together a colorful, functional website without the use of an API so that I could demonstrate my skills with html and css.
 
